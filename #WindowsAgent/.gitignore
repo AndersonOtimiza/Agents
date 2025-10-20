@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+agent.log
+system_manager.log
